@@ -51,7 +51,7 @@ const Header: React.FC = () => {
       <div className="max-w-6xl mx-auto flex justify-between items-center">
         <div className="flex items-center">
           <div className="bg-teal-600 text-white p-2 rounded-md mr-3">
-            <span className="font-bold text-xl">$</span>
+            <span className="font-bold text-xl">👽</span>
           </div>
           <h1 className="text-xl font-bold text-gray-800 dark:text-white">
             {intl.formatMessage({ id: 'app.title' })}
